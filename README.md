@@ -1,7 +1,11 @@
-# msu-git-conflict2
+# Challenge 1
 
-## This is a subheading created on GitHub
+## Description
 
-All of this content added to the readme file has been added from my local Git repository.
+This is challenge 1 where we do ...
 
-another merge conflict here
+## Screenshot
+
+## Deployment
+
+[Deployed Challenge 1](https://en.wikipedia.org/wiki/Agile_software_development)
