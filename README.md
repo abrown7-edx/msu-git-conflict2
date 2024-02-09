@@ -1,0 +1,1 @@
+# msu-git-conflict2
